@@ -117,9 +117,9 @@ Result |	The resulting coefficient.|	Number
 The gamma function is an extension of the factorial function to complex numbers. The gamma function is defined for all complex numbers except negative integers.
  
 #### Input: 
-Name 	Description 	Data Type 
+Name| 	Description| 	Data Type 
 |---|-----------|---------|
-zParameterValue 	The input value to apply to the gamma function .	Text 
+zParameterValue| 	The input value to apply to the gamma function|	Number 
 #### Output: 
 Name |	Description |	Data Type 
 |---|-----------|---------|
@@ -131,7 +131,7 @@ The gammaln function will return the natural logarithm of the gamma function, us
 #### Input: 
 Name| 	Description |	Data Type 
 |---|-----------|---------|
-zParameterValue |	The input value to apply to the gamma function.|	Text 
+zParameterValue |	The input value to apply to the gamma function.|	Number 
 #### Output: 
 Name |	Description |	Data Type 
 |---|-----------|---------|
